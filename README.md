@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [fodil.org](fodil.org)
 
-- 💬 Ask me about **Flutter, Java, Go, Rusut**
+- 💬 Ask me about **Flutter, Java, Go, Rust**
 
 - 📫 How to reach me **dev@fodil.org**
 
